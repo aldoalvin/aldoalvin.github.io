@@ -127,7 +127,7 @@
     <nav class="navbar">
         <h1>SJT</h1>
         <ul>
-            <li><a href="index.html">Dashboard</a></li>
+            <li><a href="dashboard.php">Dashboard</a></li>
             <li><a href="transaksi.php">Transaksi</a></li>
             <li><a href="laporan.php">Laporan</a></li>
             <li><a href="logout.php">Log Out</a></li>
