@@ -7,6 +7,6 @@
         $_SESSION['password'] = $pass;
         header('location:dashboard.php');
     }else{
-        header('location:adminlogin.php');
+        header('location:index.php');
     }
 ?>
