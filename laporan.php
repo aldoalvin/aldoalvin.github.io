@@ -1,7 +1,7 @@
 <?php
     session_start();
     if(empty($_SESSION['username'])){
-        header("location:adminlogin.php");
+        header("location:index.html");
     };
 ?>
 <!DOCTYPE html>
